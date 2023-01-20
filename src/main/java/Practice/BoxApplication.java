@@ -1,4 +1,4 @@
-package com.bootcoding.java;
+package Practice;
 
 import Practice.Box;
 
